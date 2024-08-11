@@ -1,0 +1,139 @@
+.Navbar {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 120px;
+  transition: background-color 0.3s ease;
+}
+
+.Navbar.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Navbar .navbar {
+  background-color: transparent;
+}
+
+.Navbar .navbar-brand {
+  width: 180px;
+}
+
+.Navbar .navbar-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.Navbar .navbar-toggler-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.Navbar .navbar-nav .nav-item {
+  margin-right: 15px;
+}
+
+.Navbar .nav-link {
+  color: #fcfcfc;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Navbar .nav-link:hover {
+  color: #FDF36D;
+}
+
+.Navbar .nav-link.active {
+  color: #FDF36D !important;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn .bi {
+  vertical-align: middle;
+  color: #fcfcfc;
+  font-size: 20px;
+}
+
+.btn .bi:hover {
+  color: #FDF36D;
+}
+
+/* Sticky Styles */
+.Navbar.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #6548e7;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Navbar.sticky .navbar {
+  background-color: transparent;
+}
+
+.Navbar.sticky .navbar-brand,
+.Navbar.sticky .navbar-nav .nav-item,
+.Navbar.sticky .btn .bi {
+  color: #fcfcfc;
+}
+
+.Navbar.sticky .nav-link:hover,
+.Navbar.sticky .btn .bi:hover {
+  color: #FDF36D;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,102,203);
+} 
+
+.offcanvas-header{
+  color: #fcfcfc;
+  background-color: #6548e7;
+  padding:  20px 32px 20px 16px !important;
+}
+
+
+
+/* Responsive styles */
+@media (max-width: 991px) {
+  .Navbar {
+  padding: 0 0px;
+}
+
+.offcanvas-body{
+  background-color: #6548e7;
+}
+
+
+  .navbar-nav {
+    flex-direction: column;
+  }
+
+  .nav-link {
+    margin-bottom: 10px;
+  }
+
+  .navbar-toggler {
+    margin-right: 0;
+  }
+}
