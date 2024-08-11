@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/2048/static/css/main.39e6d81a.css",
+    "main.js": "/2048/static/js/main.d629f565.js",
+    "static/media/04.jpg": "/2048/static/media/04.ce2bc03d33452772a07f.jpg",
+    "static/media/11.jpg": "/2048/static/media/11.8635fb906a672882a1d7.jpg",
+    "static/media/bootstrap-icons.woff?": "/2048/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/08.jpg": "/2048/static/media/08.7748075d9e403b98a073.jpg",
+    "static/media/19.jpg": "/2048/static/media/19.3e99af7a18d3a2569bf4.jpg",
+    "static/media/bootstrap-icons.woff2?": "/2048/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/18.jpg": "/2048/static/media/18.27a1d694a113d103eda3.jpg",
+    "static/media/09.jpg": "/2048/static/media/09.47d423a92f5c5ccc141e.jpg",
+    "static/media/13.jpg": "/2048/static/media/13.c59398fcd4f1e8ce9288.jpg",
+    "static/media/15.jpg": "/2048/static/media/15.e48b6e706dc5daf2c9af.jpg",
+    "static/media/10.jpg": "/2048/static/media/10.6a1f7ec2fb1853c9b61a.jpg",
+    "static/media/12.jpg": "/2048/static/media/12.c4330b83e8e6dcde2da9.jpg",
+    "static/media/16.jpg": "/2048/static/media/16.b192bdb5401a230b37b9.jpg",
+    "static/media/06.jpg": "/2048/static/media/06.505d452f65a353f01ca6.jpg",
+    "static/media/14.jpg": "/2048/static/media/14.54752043dd9f03ecadd2.jpg",
+    "static/media/05.jpg": "/2048/static/media/05.9a78eaccdacb1dc8e72f.jpg",
+    "static/media/03.jpg": "/2048/static/media/03.35ea1da9d0088026e2c7.jpg",
+    "static/media/collection.png": "/2048/static/media/collection.1f879ede8c4c95a987ef.png",
+    "static/media/07.jpg": "/2048/static/media/07.57f35ab82ae1d791b53f.jpg",
+    "static/media/land-cta.png": "/2048/static/media/land-cta.39852b7511b28d44406f.png",
+    "static/media/02.jpg": "/2048/static/media/02.f3387bb63b90e37f9d92.jpg",
+    "static/media/17.jpg": "/2048/static/media/17.ceecc9d733d09989603a.jpg",
+    "static/media/01.jpg": "/2048/static/media/01.818582a64c420f202300.jpg",
+    "static/media/footer-bg.png": "/2048/static/media/footer-bg.6f21cde036ebed7c3faa.png",
+    "static/media/logo.svg": "/2048/static/media/logo.408ca1e1ded6860145f916cb0788ac3a.svg",
+    "static/media/metamask.svg": "/2048/static/media/metamask.1cc8e78e37aae9668e71a947c0d0a35b.svg",
+    "static/media/bitgo.svg": "/2048/static/media/bitgo.71438780c95b0221dc1b6749ad450e6f.svg",
+    "static/media/trustwallet.svg": "/2048/static/media/trustwallet.f4a6051134101e23c8dd1c2db2201ccc.svg",
+    "static/media/exodus.svg": "/2048/static/media/exodus.9f915d18baea8156da231bce5091249f.svg",
+    "static/media/coinbase.svg": "/2048/static/media/coinbase.a2c798735700ff4d69c72e3c5317d82d.svg",
+    "index.html": "/2048/index.html",
+    "main.39e6d81a.css.map": "/2048/static/css/main.39e6d81a.css.map",
+    "main.d629f565.js.map": "/2048/static/js/main.d629f565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e6d81a.css",
+    "static/js/main.d629f565.js"
+  ]
+}
